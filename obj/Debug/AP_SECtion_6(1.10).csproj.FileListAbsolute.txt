@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\obj\Debug\AP_SECtion_6(1.10).csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\obj\Debug\AP_SECtion_6(1.10).csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\obj\Debug\AP_SECtion_6(1.10).csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\bin\Debug\AP_SECtion_6(1.10).exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\bin\Debug\AP_SECtion_6(1.10).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\bin\Debug\AP_SECtion_6(1.10).pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\obj\Debug\AP_SECtion_6(1.10).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_SECtion_6(1.10)\AP_SECtion_6(1.10)\obj\Debug\AP_SECtion_6(1.10).pdb
